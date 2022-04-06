@@ -25,6 +25,7 @@ https://gyazo.com/700972501deb1277eab178b7a58f5cf4
 ### Links
 
 - Solution URL: https://github.com/ldinski/qr-code-coding-challenge
+- Live Webiste Link: https://thriving-stroopwafel-620634.netlify.app/ (Deployed through the use of Netlify) :)
 
 ### Built with
 
